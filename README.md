@@ -5,7 +5,7 @@
 
 - 🌱 I’m pursuing *B.Tech from CSE(2nd year) ,<br>    from Graphic era hill university,<br> Dehradun, Utthrakhand.*
 
-- 💬 Ask me about *C,C++*
+- 💬 Ask me about *C,C++,Python*
 
 - 📫 How to reach me *kinshukdewariwastaken@gmail.com*
 <br>
