@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KINSHUK69&label=Profile%20views&color=0e75b6&style=flat" alt="KINSHUK69" /> </p>
 
-- 🌱 I’m pursuing *B.Tech from CSE(2nd year) ,<br>    from Graphic era hill university,<br> Dehradun, Utthrakhand*
+- 🌱 I’m pursuing *B.Tech from CSE(2nd year) ,<br>    from Graphic era hill university,<br> Dehradun, Utthrakhand.*
 
 - 💬 Ask me about *C,C++*
 
