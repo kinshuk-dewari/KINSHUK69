@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KINSHUK69&show_icons=true&theme=tokyonight&locale=en" alt="KINSHUK69" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINSHUK69&exclude_repo=c-oops-lab&layout=compact&theme=tokyonight&show_icons=true" alt="KINSHUK69" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KINSHUK69&theme=tokyonight" alt="KINSHUK69" /></p>
+
 
