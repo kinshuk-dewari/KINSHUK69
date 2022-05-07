@@ -2,6 +2,7 @@
 <h3 align="center">A passionate engineering student from <b>India</b>.</h3>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KINSHUK69&label=Profile%20views&color=0e75b6&style=flat" alt="KINSHUK69" /> </p>
 
 - 🌱 I’m pursuing *B.Tech from CSE (2nd year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY,<br> Dehradun, Uttarakhand.*</pre>
@@ -12,7 +13,7 @@
 
 
 <h2></h2>
-<h3 align="left">Languages and Tools :</h3>
+<h3>Languages and Tools :</h3>
 <h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -23,10 +24,16 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 </h2>
+<h3>My Socials :</h3>
+<p align="left"> <a href="https://www.github.com/KINSHUK69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/kinshuhk_dewari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/kinshuk-dewari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
+<br>
+<h3>My Github Stats :</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KINSHUK69&show_icons=true&theme=tokyonight&locale=en" alt="KINSHUK69" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINSHUK69&exclude_repo=c-oops-lab&layout=compact&theme=tokyonight&show_icons=true" alt="KINSHUK69" /></p>
+<p><a href="http://www.github.com/KINSHUK69"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KINSHUK69&theme=tokyonight&locale=en" /></a></p>
 
 
