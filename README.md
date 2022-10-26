@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KINSHUK69&label=Profile%20views&color=0e75b6&style=flat" alt="KINSHUK69" /> </p>
 
-- 🌱 I’m pursuing *B.Tech from CSE (3rd year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY,<br> Dehradun, Uttarakhand.*</pre>
+- 🌱 I’m pursuing *B.Tech in CSE (3rd year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY,<br> Dehradun, Uttarakhand.*</pre>
 
 - 💬 Ask me about  **`C` , `C++` , `Python`**
 
@@ -27,7 +27,7 @@
 <h3>My Socials :</h3>
 <p align="left"> <a href="https://www.github.com/KINSHUK69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/kinshuk_dewari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/kinshuk-dewari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/kinshuk-dewari/" target= "_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <br>
 <h3>My Github Stats :</h3>
