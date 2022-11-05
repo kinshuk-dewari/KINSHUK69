@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Kinshuk Dewari</h1>
-<h3 align="center">A passionate engineering student from <b>India</b>.</h3>
+<h3 align="center">An engineering student from <b>India</b>.</h3>
 
 
 
