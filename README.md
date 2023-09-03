@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KINSHUK69&label=Profile%20views&color=0e75b6&style=flat" alt="KINSHUK69" /> </p>
 
-- 🌱 I’m pursuing *B.Tech in CSE (currenty in 4 th year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY,<br> Dehradun, Uttarakhand.*</pre>
+- 🌱 I’m pursuing *B.Tech in CSE (currenty in 4 th year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY, Dehradun, Uttarakhand.*</pre>
 
-- 💬 Ask me about  **`C` , `C++` , `Python`**
+- 💬 Ask me about  **`C` , `C++` , `Python`**.
 
 - 📫 How to reach me *kinshukdewariwastaken@gmail.com*
 
