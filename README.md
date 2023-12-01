@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KINSHUK69&label=Profile%20views&color=0e75b6&style=flat" alt="KINSHUK69" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=KINSHUK69&label=Profile%20views&color=0e75b6&style=flat" alt="KINSHUK69" /> </p>-->
 
 - 🌱 I’m pursuing *B.Tech in CSE (currenty in 4 th year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY, Dehradun, Uttarakhand.*</pre>
 
@@ -41,8 +41,8 @@
 <br>
 <h3>My Github Stats :</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KINSHUK69&show_icons=true&theme=tokyonight&locale=en" alt="KINSHUK69" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINSHUK69&exclude_repo=c-oops-lab&layout=compact&theme=tokyonight&show_icons=true" alt="KINSHUK69" /></p>
-<p><a href="http://www.github.com/KINSHUK69"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KINSHUK69&theme=tokyonight&locale=en" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-dewari&show_icons=true&theme=tokyonight&locale=en" alt="kinshuk-dewari" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshuk-dewari&exclude_repo=c-oops-lab&layout=compact&theme=tokyonight&show_icons=true" alt="kinshuk-dewari" /></p>
+<p><a href="http://www.github.com/kinshuk-dewari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kinshuk-dewari&theme=tokyonight&locale=en" /></a></p>
 
 
